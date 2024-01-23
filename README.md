@@ -1,5 +1,15 @@
 # I'm Bored
 
+
+
+
+https://github.com/FatmaYgn/Im-Bored/assets/152922589/9a9bef4e-b5f4-42f6-9581-fa05b7e8b8f1
+
+
+
+
+
+
 To test the program, please follow these steps:
 <ol>
   <li>Install the provided zip file.</li>
